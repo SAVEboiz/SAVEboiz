@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍 I'm based in Bangkok<br>🖥️ See my portfolio at [Github](https://github.com/SAVEboiz)<br>✉️ You can contact me at savegun111@gmail.com<br>🚀 I'm currently working on [2D Idle Game project](https://github.com/Ricebeater/Proj-Monster-Clicker)<br>🧠 I'm currently learning 3D Modeling<br>👥 I'm looking to collaborate on Game Development</p>
+<p align="left">🌍 I'm based in Bangkok<br>🖥️ See my portfolio at <a href="https://github.com/SAVEboiz">Github</a><br>✉️ You can contact me at <a href="mailto:savegun111@gmail.com">savegun111@gmail.com</a><br>🚀 I'm currently working on <a href="https://github.com/Ricebeater/Proj-Monster-Clicker">2D Idle Game project</a><br>🧠 I'm currently learning 3D Modeling<br>👥 I'm looking to collaborate on Game Development</p>
 
 ###
 
